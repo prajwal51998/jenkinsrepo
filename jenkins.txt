@@ -1,0 +1,6 @@
+one
+two
+three
+total 8
+-rw-rw-r-- 1 azureuser azureuser 14 Jul 18 18:14 README.md
+-rw-rw-r-- 1 azureuser azureuser 14 Jul 18 18:17 jenkins.txt
